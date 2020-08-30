@@ -1,4 +1,4 @@
 # Chronometer
 
-* Idea is taken from YouTube channel "The Coding Train"
+* Chronometer is based on seven-segment-display
 * Written in Processing environment.
